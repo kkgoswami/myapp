@@ -1,0 +1,2 @@
+1. Install Google Tesseract - ( For e.g. brew install tesseract, sudo apt-get install tesseract-ocr ) 
+2. pip install pytesseract
