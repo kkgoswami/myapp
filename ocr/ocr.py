@@ -20,7 +20,7 @@ class OCR(object):
 
 def main():
     p = OCR()
-    print p.get_text('test.png')
+    print p.get_text('falsetest.png')
 
 
 if __name__ == '__main__':
